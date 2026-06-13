@@ -1,7 +1,7 @@
-langchain
-langgraph
-python-dotenv
-langchain-google-genai
-langchain-groq
+
 streamlit
-langchain-openai
+langchain==0.3.*
+langchain-core==0.3.*
+langchain-groq==0.2.*
+langchain-google-genai==2.0.*
+langchain-openai==0.2.*
